@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm hicham benhachem, and I'm a Software Engineer. I'm from Morocco.
+I'm hicham benhachem, Software Engineer.
 
 #### Technlogies
 ---------------------------------------------------------------
